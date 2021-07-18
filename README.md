@@ -1,4 +1,4 @@
-# html200-adopt-a-dog
+# Pet-Adopt
 A simple website for adopting a new pet
 
 ## Description
